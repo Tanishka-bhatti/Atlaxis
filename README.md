@@ -277,11 +277,11 @@ streamlit run app.py
 
 # What makes Atlaxis different than most Threshold Systems
 
-✔ Personalized distribution modeling for robust analysis of an individual players' performance
-✔ Nonlinear fatigue learning 
-✔ Time-aware risk detection for timely injury prevention
-✔ Interpretable tree-based ML
-✔ No need of visual information — pure biomechanical intelligence based on the prosthetic data stream
+* Personalized distribution modeling for robust analysis of an individual players' performance
+* Nonlinear fatigue learning 
+* Time-aware risk detection for timely injury prevention
+* Interpretable tree-based ML
+* No need of visual information — pure biomechanical intelligence based on the prosthetic data stream
 
 ---
 
